@@ -34,3 +34,8 @@ export BOT_TOKEN=your-bot-token-here
 ```sh
 python3 bot.py
 ```
+
+
+------
+
+*pd: to leave the virtual environment, execute:* `deactivate`.
